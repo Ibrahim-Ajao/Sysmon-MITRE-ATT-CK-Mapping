@@ -46,11 +46,11 @@ This project demonstrates how to collect endpoint telemetry using Sysmon and det
 ![](./3.jpg)
 ## Log analysis using splunk
 
+---
+
 ![](./4.jpg)
 ![](./5.jpg)
 ![](./6.jpg)
 ## Log analysis using event viewer
 
-
----
 
